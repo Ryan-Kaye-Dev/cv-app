@@ -1,0 +1,12 @@
+.user-input {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.cv {
+  grid-column: 2 / 3;
+}
+
+.form {
+  grid-column: 1 / 2;
+}
