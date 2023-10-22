@@ -78,21 +78,10 @@ h3, p {
   border-radius: 5px;
 }
 
-.company {
-
-}
-
-.position {
-
-}
-
 .date {
   grid-row: 2 / 3;
 }
 
-.responsibilities {
-
-}
 .form {
   grid-column: 1 / 2;
 }
